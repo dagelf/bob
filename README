@@ -1,0 +1,24 @@
+Business on Basics
+------------------
+
+IDE for a Database Front-end / Business Process Management Application, with template marketplace
+
+*If you know of a disucssion platform, or project with the same goals, please share your inputs on the Wiki or Issues pages on github.*
+
+This projecct is intended to provide anyone with a business idea, access to an easy-to-use "drag-and-drop" environment with a library for common business processes.
+
+Think of it as a generic, light-weight CRM and BPM with templates for most any business, usable out of the box. The idea is that, if you see a product, or a market, you can draw your idea, and immediately employ people to do the work, with little or no need to know much about the finer subtleties about running a business - after all, those tasks that can not be automated by computer, should be able to be automatically outsourced to someone who is an expert in the field.
+
+A big idea to put in here would be that of "open-accounting" - open as in open source, as well as a common API to exchange market and pricing information in.
+
+It might someday merge into an existing CRM or software development platform - or who knows, perhaps these already exist and I have not been looking hard enough. My current favourites are Joget and Adempiere.
+
+Anyone is free to contribute. The core source, API's and documentation will always be free.
+
+Want to start Groupon? Easy, if you know what you're doing, you can do all the work in a week (sorry guys)
+
+Want to replace the need for SAP contractors in your company? May take you a few weeks.
+
+I sincerely thought that we'd have this by now. 
+
+Sure, the industrial revolution put a lot of people out of work - but it also forced people to do better things with their time. Or gave them the freedom to pursuit their dreams. 
